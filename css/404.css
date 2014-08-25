@@ -1,0 +1,42 @@
+/*UNTITLED PRODUCTIONS CUSTOM STYLES*/
+/*
+#2E2E2E - darkest
+#4C4C4C - text
+#858585 - border
+#C4C4C4 - fade to 
+#F7F7F7 - lightest*/
+
+h1, h2, h3, h4{
+	font-weight: 300;
+}
+h2{
+	padding-bottom: 40px;
+}
+
+/*MAIN CONTENT DIV STYLE*/
+.content {
+	margin: auto;
+	height: 100%;
+	width: 60%;
+	padding-top: 60px;
+	padding-bottom: 60px;	
+}
+
+html {
+	color: #4C4C4C;
+	padding-left: 0px;
+	padding-right: 0px;
+	background-color: #F7F7F7;
+}
+body{
+	color: #4C4C4C;
+	padding-left: 0px;
+	padding-right: 0px;
+	background-color: #F7F7F7;
+}
+a{
+	color: #4C4C4C;
+}
+a:hover{
+ 	color: rgba(207, 138, 5, 0.7);
+}
